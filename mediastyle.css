@@ -1,0 +1,63 @@
+@media only screen and (max-width: 1225px) {
+  .roll {
+    font-size: 1rem;
+    width: 10%;
+  }
+  .new {
+    font-size: 1rem;
+    height: 10%;
+  }
+  .hold {
+    font-size: 1.1rem;
+    width: 9%;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .score {
+    width: 8em;
+    font-size: 1.3rem;
+  }
+  .roll {
+    width: 11%;
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 835px) {
+  .score {
+    width: 8em;
+    font-size: 1.2rem;
+  }
+  .hold {
+    height: 8%;
+    width: 7.8%;
+    font-size: 1rem;
+    bottom: 185px;
+  }
+  .roll {
+    bottom: 255px;
+    width: 10%;
+    height: 8.5%;
+    font-size: 1rem;
+  }
+  .new {
+    font-size: 1rem;
+    height: 10.5%;
+  }
+  .name {
+    font-size: 1.9rem;
+  }
+  #name {
+    font-size: 1.9rem;
+  }
+  .img {
+    height: 81px;
+    width: 86px;
+  }
+}
+@media only screen and (min-width: 1224px) and (max-width: 1301px) {
+  .new {
+    height: 9.5%;
+  }
+}
