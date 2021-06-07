@@ -100,7 +100,7 @@ function newGame() {
   
   
   //3. Check if random no. is 1?
-  if (dicerandnum == 3) {
+  if (dicerandnum == 1) {
     //Switch to next player
     currentScore = 0;
     pla1.classList.toggle("bring");
